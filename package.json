@@ -1,0 +1,23 @@
+{
+  "name": "easyyandextranslate",
+  "version": "1.0.0",
+  "description": "non-official Yandex Translate API to translate text.",
+  "main": "index.cjs",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daswer123/easyYandexTranslate.git"
+  },
+  "keywords": [
+    "translate"
+  ],
+  "author": "daswer123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daswer123/easyYandexTranslate/issues"
+  },
+  "homepage": "https://github.com/daswer123/easyYandexTranslate#readme"
+}
