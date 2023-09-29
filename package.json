@@ -1,6 +1,6 @@
 {
   "name": "easyyandextranslate",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "non-official Yandex Translate API to translate text.",
   "main": "index.cjs",
   "module": "index.js",

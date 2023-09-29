@@ -14,7 +14,7 @@ You can use this wrapper to translate text, translate a file and write the trans
 
 ## Here are examples of how to use these functions:
 
-`const { translate, translateFile, translateFileToText } = require('./path_to_your_file')`
+`const { translate, translateFile, translateFileToText } = require('easyyandextranslate')`
 
 `translate('Hello world', 'ru').then(console.log);  // Привет мир`
 
